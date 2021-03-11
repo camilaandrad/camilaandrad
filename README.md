@@ -9,4 +9,4 @@ I'm a backend developer at AZ
 - :briefcase:  I'm currently working on Java apps/systems.
 - :books: I'm currently learning AI, Python, Elasticsearch.
 - :mortar_board: I'm a doctoral student in Computer Science focused in texting processing.
-- :computer: Technologies: Spring, Java EE, Django, Python.
+- :computer: Technologies: Spring, Jakarta EE, Django, Python.
