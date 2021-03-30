@@ -8,5 +8,5 @@ I'm a backend developer at AZ
 
 - :briefcase:  I'm currently working on Java apps/systems.
 - :books: I'm currently learning AI, Python, Elasticsearch.
-- :mortar_board: I'm a master in Applied Computing, pursuing a PhD's degree in Computer Science focused in texting processing.
+- :mortar_board: I'm a master in Applied Computing, pursuing a PhD degree in Computer Science focused in texting processing.
 - :computer: Technologies: Spring, Jakarta EE, Django, Python, Web Service.
