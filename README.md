@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm a backend developer at AZ
+I'm a backend developer
 
 - :briefcase:  I'm currently working on Java apps/systems.
 - :books: I'm currently learning AI, Python, Elasticsearch.
